@@ -90,6 +90,11 @@ Global-Superstore-Sales-Analytics-Dashboard/
 ├── dashboard.png
 
 └── README.md
+markdown---
+
+## 📸 Dashboard Preview
+![Dashboard Preview]
+<img width="1771" height="862" alt="dashboard" src="https://github.com/user-attachments/assets/c452263d-e5b1-498d-8a1e-0b5eddea95fb" />
 
 ## 🚀 How to Run
 1. Download Power BI Desktop (free)
@@ -102,5 +107,6 @@ Global-Superstore-Sales-Analytics-Dashboard/
 ## 👤 Author
 **Tejasvini Kapile**
 MCA Graduate | Aspiring Data Analyst
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/tejasvini-kapile-62b063334)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](your-github-url)
 
