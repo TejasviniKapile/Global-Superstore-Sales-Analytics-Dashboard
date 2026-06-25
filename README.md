@@ -108,5 +108,5 @@ markdown---
 **Tejasvini Kapile**
 MCA Graduate | Aspiring Data Analyst
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/tejasvini-kapile-62b063334)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](your-github-url)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)]([your-github-url](https://github.com/TejasviniKapile))
 
