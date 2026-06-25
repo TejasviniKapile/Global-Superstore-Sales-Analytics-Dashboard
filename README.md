@@ -79,3 +79,28 @@ Sales Growth % = DIVIDE([Total Sales]-[PY Sales],[PY Sales],0)
 ---
 
 ## 📁 Repository Structure
+Global-Superstore-Sales-Analytics-Dashboard/
+
+│
+
+├── GlobalSuperstore_Dashboard.pbix
+
+├── superstore.csv
+
+├── dashboard.png
+
+└── README.md
+
+## 🚀 How to Run
+1. Download Power BI Desktop (free)
+2. Clone this repository
+3. Open GlobalSuperstore_Dashboard.pbix
+4. Explore interactive dashboard!
+
+---
+
+## 👤 Author
+**Tejasvini Kapile**
+MCA Graduate | Aspiring Data Analyst
+
+
